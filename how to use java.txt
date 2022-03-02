@@ -1,0 +1,8 @@
+1.テキストファイルにclass を書く
+
+2.コマンドプロンプトにて該当ディレクトリに移動し、javac (file name).java
+でコンパイル
+日本語文字列が入っている場合、javac -encoding UTF-8 (file name).java
+
+3.java (class name)で実行できる
+
